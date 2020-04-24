@@ -1,2 +1,4 @@
-# tdd-exercise
-Writing numbers in cardinal format
+# TDD Exercise
+
+Writing numbers in cardinal format.
+It's a TDD exercise!

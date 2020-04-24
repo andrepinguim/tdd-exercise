@@ -1,0 +1,4 @@
+{
+    "dotnet-test-explorer.testProjectPath": "./Test",
+    "dotnet-test-explorer.useTreeView": false
+}
